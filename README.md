@@ -1,4 +1,4 @@
-### NOTES ABOUT C
+NOTES ABOUT C
 
 CONTENTS OF THIS FILE
 ---------------------
@@ -6,7 +6,7 @@ CONTENTS OF THIS FILE
  * [Null Value](#Null-Value)
  
  
- ### String Comparison
+### String Comparison
 ----------------------
 Single-quotes mean "character literal" not "string literal" in C. Double-quotes mean "character literal" in C.
 
@@ -15,7 +15,7 @@ Single-quotes mean "character literal" not "string literal" in C. Double-quotes 
 Reference: https://stackoverflow.com/questions/1598425/how-do-i-check-if-a-value-matches-a-string/
 
 
- ### Null Value
+### Null Value
 ----------------------
 The character '\0' is either a zero character or it indicates the end of a string.
 
