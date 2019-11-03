@@ -21,6 +21,6 @@ The character '\0' is either a zero character or it indicates the end of a strin
 
 Reference: https://stackoverflow.com/questions/14461695/what-does-0-stand-for/14461711
 
-Initialise an empty character of length n instead of empty string. Example if i want to initialise an empty string of size 5, type "char hello[5];" instead of "string hello[5]". There will be issue later if you want to change the value of a partiular character inside the string if you use "string hello[5]".
+Initialise an empty character of length n instead of empty string. For example, if i want to initialise an empty string of size 5, type "char hello[5];" instead of "string hello[5]". There will be issue later if you want to change the value of a partiular character inside the string if you use "string hello[5]".
 
 
