@@ -1,9 +1,10 @@
-## Notes about C
+### NOTES ABOUT C
 
 CONTENTS OF THIS FILE
 ---------------------
  * [String Comparison](#String-Comparison)
  * [Null Value](#Null-Value)
+ 
  
  ### String Comparison
 ----------------------
@@ -12,6 +13,7 @@ Single-quotes mean "character literal" not "string literal" in C. Double-quotes 
 "string1" == "string2" does not compare the value of the strings, but rather their base addresses, i.e. pointers to characters. Use strcmp() to compare strings instead.
 
 Reference: https://stackoverflow.com/questions/1598425/how-do-i-check-if-a-value-matches-a-string/
+
 
  ### Null Value
 ----------------------
